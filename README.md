@@ -14,7 +14,6 @@ Welcome to the **Simon Game**, a fun and interactive memory game where players n
    - Displays: `Game over! Your score was [score]. Press any key to start.`
    - The background briefly turns red to indicate the end of the game.
 
----
 
 ## 🚀 Features
 - Dynamic level progression.
@@ -22,11 +21,6 @@ Welcome to the **Simon Game**, a fun and interactive memory game where players n
 - Fun and engaging user interface.
 - Keeps track of the player's score.
 - Background flashes red when the game ends.
-
----
-
-
----
 
 ## 🛠️ Technologies Used
 - **HTML**: Structure of the web page.
@@ -43,14 +37,6 @@ Welcome to the **Simon Game**, a fun and interactive memory game where players n
 ### Gameplay-
 ![Screenshot 2024-12-30 233120](https://github.com/user-attachments/assets/11bb4f1d-9c4c-46c9-8be5-6ba8f7840c77)
 
-> Replace `link-to-screenshot` with actual image links if hosting screenshots.
-
----
-
- 
----
-
----
 
 ## 💌 Acknowledgments
 - Inspired by the classic **Simon ** game.
