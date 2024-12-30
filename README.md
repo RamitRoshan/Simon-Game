@@ -59,6 +59,6 @@ Welcome to the **Simon Game**, a fun and interactive memory game where players n
 ---
 
 ## Live Demo::
-live demo : [Simon Game](https://candy-crush-game-swart.vercel.app/)
+live demo : [Simon Game](https://simon-game-ly0i528wh-ramit-roshans-projects.vercel.app/)
 
 Enjoy the game! 🎉
